@@ -1,0 +1,87 @@
+c:\users\bryan\documents\visual studio 2015\Projects\SpeedoMeter\SpeedoMeter\bin\Debug\SpeedoMeter.exe.config
+C:\Users\Bryan\documents\visual studio 2015\Projects\SpeedoMeter\SpeedoMeter\bin\Debug\SpeedoMeter.exe
+C:\Users\Bryan\documents\visual studio 2015\Projects\SpeedoMeter\SpeedoMeter\bin\Debug\SpeedoMeter.pdb
+C:\Users\Bryan\documents\visual studio 2015\Projects\SpeedoMeter\SpeedoMeter\obj\Debug\MainWindow.g.cs
+C:\Users\Bryan\documents\visual studio 2015\Projects\SpeedoMeter\SpeedoMeter\obj\Debug\App.g.cs
+C:\Users\Bryan\documents\visual studio 2015\Projects\SpeedoMeter\SpeedoMeter\obj\Debug\SpeedoMeter_MarkupCompile.cache
+C:\Users\Bryan\documents\visual studio 2015\Projects\SpeedoMeter\SpeedoMeter\obj\Debug\SpeedoMeter_MarkupCompile.lref
+C:\Users\Bryan\documents\visual studio 2015\Projects\SpeedoMeter\SpeedoMeter\obj\Debug\MainWindow.baml
+C:\Users\Bryan\documents\visual studio 2015\Projects\SpeedoMeter\SpeedoMeter\obj\Debug\SpeedoMeter.g.resources
+C:\Users\Bryan\documents\visual studio 2015\Projects\SpeedoMeter\SpeedoMeter\obj\Debug\SpeedoMeter.Properties.Resources.resources
+C:\Users\Bryan\documents\visual studio 2015\Projects\SpeedoMeter\SpeedoMeter\obj\Debug\SpeedoMeter.csproj.GenerateResource.Cache
+C:\Users\Bryan\documents\visual studio 2015\Projects\SpeedoMeter\SpeedoMeter\obj\Debug\SpeedoMeter.exe
+C:\Users\Bryan\documents\visual studio 2015\Projects\SpeedoMeter\SpeedoMeter\obj\Debug\SpeedoMeter.pdb
+C:\Users\Bryan\documents\visual studio 2015\Projects\SpeedoMeter\SpeedoMeter\bin\Debug\SpeedoMeter.exe.manifest
+C:\Users\Bryan\documents\visual studio 2015\Projects\SpeedoMeter\SpeedoMeter\bin\Debug\SpeedoMeter.application
+C:\Users\Bryan\documents\visual studio 2015\Projects\SpeedoMeter\SpeedoMeter\obj\Debug\SpeedoMeter.csprojResolveAssemblyReference.cache
+C:\Users\Bryan\documents\visual studio 2015\Projects\SpeedoMeter\SpeedoMeter\obj\Debug\SpeedoMeter.exe.manifest
+C:\Users\Bryan\documents\visual studio 2015\Projects\SpeedoMeter\SpeedoMeter\obj\Debug\SpeedoMeter.application
+C:\Users\Bryan\documents\visual studio 2015\Projects\SpeedoMeter\SpeedoMeter\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Bryan\documents\visual studio 2015\Projects\SpeedoMeter\SpeedoMeter\bin\Debug\PresentationCore.dll
+C:\Users\Bryan\documents\visual studio 2015\Projects\SpeedoMeter\SpeedoMeter\bin\Debug\PresentationFramework.dll
+C:\Users\Bryan\documents\visual studio 2015\Projects\SpeedoMeter\SpeedoMeter\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Bryan\documents\visual studio 2015\Projects\SpeedoMeter\SpeedoMeter\bin\Debug\System.Data.dll
+C:\Users\Bryan\documents\visual studio 2015\Projects\SpeedoMeter\SpeedoMeter\bin\Debug\System.dll
+C:\Users\Bryan\documents\visual studio 2015\Projects\SpeedoMeter\SpeedoMeter\bin\Debug\System.Net.Http.dll
+C:\Users\Bryan\documents\visual studio 2015\Projects\SpeedoMeter\SpeedoMeter\bin\Debug\System.Xaml.dll
+C:\Users\Bryan\documents\visual studio 2015\Projects\SpeedoMeter\SpeedoMeter\bin\Debug\System.Xml.dll
+C:\Users\Bryan\documents\visual studio 2015\Projects\SpeedoMeter\SpeedoMeter\bin\Debug\System.Xml.Linq.dll
+C:\Users\Bryan\documents\visual studio 2015\Projects\SpeedoMeter\SpeedoMeter\bin\Debug\WindowsBase.dll
+C:\Users\Bryan\Desktop\KEU PDN\#SpeedoMeter\SpeedoMeter\bin\Debug\SpeedoMeter.exe.config
+C:\Users\Bryan\Desktop\KEU PDN\#SpeedoMeter\SpeedoMeter\obj\Debug\SpeedoMeter.exe
+C:\Users\Bryan\Desktop\KEU PDN\#SpeedoMeter\SpeedoMeter\obj\Debug\SpeedoMeter.pdb
+C:\Users\Bryan\Desktop\KEU PDN\#SpeedoMeter\SpeedoMeter\bin\Debug\SpeedoMeter.exe.manifest
+C:\Users\Bryan\Desktop\KEU PDN\#SpeedoMeter\SpeedoMeter\bin\Debug\SpeedoMeter.application
+C:\Users\Bryan\Desktop\KEU PDN\#SpeedoMeter\SpeedoMeter\bin\Debug\SpeedoMeter.exe
+C:\Users\Bryan\Desktop\KEU PDN\#SpeedoMeter\SpeedoMeter\bin\Debug\SpeedoMeter.pdb
+C:\Users\Bryan\Desktop\KEU PDN\#SpeedoMeter\SpeedoMeter\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Bryan\Desktop\KEU PDN\#SpeedoMeter\SpeedoMeter\bin\Debug\PresentationCore.dll
+C:\Users\Bryan\Desktop\KEU PDN\#SpeedoMeter\SpeedoMeter\bin\Debug\PresentationFramework.dll
+C:\Users\Bryan\Desktop\KEU PDN\#SpeedoMeter\SpeedoMeter\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Bryan\Desktop\KEU PDN\#SpeedoMeter\SpeedoMeter\bin\Debug\System.Data.dll
+C:\Users\Bryan\Desktop\KEU PDN\#SpeedoMeter\SpeedoMeter\bin\Debug\System.dll
+C:\Users\Bryan\Desktop\KEU PDN\#SpeedoMeter\SpeedoMeter\bin\Debug\System.Net.Http.dll
+C:\Users\Bryan\Desktop\KEU PDN\#SpeedoMeter\SpeedoMeter\bin\Debug\System.Xaml.dll
+C:\Users\Bryan\Desktop\KEU PDN\#SpeedoMeter\SpeedoMeter\bin\Debug\System.Xml.dll
+C:\Users\Bryan\Desktop\KEU PDN\#SpeedoMeter\SpeedoMeter\bin\Debug\System.Xml.Linq.dll
+C:\Users\Bryan\Desktop\KEU PDN\#SpeedoMeter\SpeedoMeter\bin\Debug\WindowsBase.dll
+C:\Users\Bryan\Desktop\KEU PDN\#SpeedoMeter\SpeedoMeter\obj\Debug\SpeedoMeter.csprojResolveAssemblyReference.cache
+C:\Users\Bryan\Desktop\KEU PDN\#SpeedoMeter\SpeedoMeter\obj\Debug\MainWindow.g.cs
+C:\Users\Bryan\Desktop\KEU PDN\#SpeedoMeter\SpeedoMeter\obj\Debug\App.g.cs
+C:\Users\Bryan\Desktop\KEU PDN\#SpeedoMeter\SpeedoMeter\obj\Debug\SpeedoMeter_MarkupCompile.cache
+C:\Users\Bryan\Desktop\KEU PDN\#SpeedoMeter\SpeedoMeter\obj\Debug\SpeedoMeter_MarkupCompile.lref
+C:\Users\Bryan\Desktop\KEU PDN\#SpeedoMeter\SpeedoMeter\obj\Debug\MainWindow.baml
+C:\Users\Bryan\Desktop\KEU PDN\#SpeedoMeter\SpeedoMeter\obj\Debug\SpeedoMeter.g.resources
+C:\Users\Bryan\Desktop\KEU PDN\#SpeedoMeter\SpeedoMeter\obj\Debug\SpeedoMeter.Properties.Resources.resources
+C:\Users\Bryan\Desktop\KEU PDN\#SpeedoMeter\SpeedoMeter\obj\Debug\SpeedoMeter.csproj.GenerateResource.Cache
+C:\Users\Bryan\Desktop\KEU PDN\#SpeedoMeter\SpeedoMeter\obj\Debug\SpeedoMeter.exe.manifest
+C:\Users\Bryan\Desktop\KEU PDN\#SpeedoMeter\SpeedoMeter\obj\Debug\SpeedoMeter.application
+C:\Users\Bryan\Desktop\KEU PDN\WPFAssignment\SpeedoMeter\SpeedoMeter\bin\Debug\SpeedoMeter.exe.config
+C:\Users\Bryan\Desktop\KEU PDN\WPFAssignment\SpeedoMeter\SpeedoMeter\obj\Debug\SpeedoMeter.exe
+C:\Users\Bryan\Desktop\KEU PDN\WPFAssignment\SpeedoMeter\SpeedoMeter\obj\Debug\SpeedoMeter.pdb
+C:\Users\Bryan\Desktop\KEU PDN\WPFAssignment\SpeedoMeter\SpeedoMeter\bin\Debug\SpeedoMeter.exe.manifest
+C:\Users\Bryan\Desktop\KEU PDN\WPFAssignment\SpeedoMeter\SpeedoMeter\bin\Debug\SpeedoMeter.application
+C:\Users\Bryan\Desktop\KEU PDN\WPFAssignment\SpeedoMeter\SpeedoMeter\bin\Debug\SpeedoMeter.exe
+C:\Users\Bryan\Desktop\KEU PDN\WPFAssignment\SpeedoMeter\SpeedoMeter\bin\Debug\SpeedoMeter.pdb
+C:\Users\Bryan\Desktop\KEU PDN\WPFAssignment\SpeedoMeter\SpeedoMeter\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Bryan\Desktop\KEU PDN\WPFAssignment\SpeedoMeter\SpeedoMeter\bin\Debug\PresentationCore.dll
+C:\Users\Bryan\Desktop\KEU PDN\WPFAssignment\SpeedoMeter\SpeedoMeter\bin\Debug\PresentationFramework.dll
+C:\Users\Bryan\Desktop\KEU PDN\WPFAssignment\SpeedoMeter\SpeedoMeter\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Bryan\Desktop\KEU PDN\WPFAssignment\SpeedoMeter\SpeedoMeter\bin\Debug\System.Data.dll
+C:\Users\Bryan\Desktop\KEU PDN\WPFAssignment\SpeedoMeter\SpeedoMeter\bin\Debug\System.dll
+C:\Users\Bryan\Desktop\KEU PDN\WPFAssignment\SpeedoMeter\SpeedoMeter\bin\Debug\System.Net.Http.dll
+C:\Users\Bryan\Desktop\KEU PDN\WPFAssignment\SpeedoMeter\SpeedoMeter\bin\Debug\System.Xaml.dll
+C:\Users\Bryan\Desktop\KEU PDN\WPFAssignment\SpeedoMeter\SpeedoMeter\bin\Debug\System.Xml.dll
+C:\Users\Bryan\Desktop\KEU PDN\WPFAssignment\SpeedoMeter\SpeedoMeter\bin\Debug\System.Xml.Linq.dll
+C:\Users\Bryan\Desktop\KEU PDN\WPFAssignment\SpeedoMeter\SpeedoMeter\bin\Debug\WindowsBase.dll
+C:\Users\Bryan\Desktop\KEU PDN\WPFAssignment\SpeedoMeter\SpeedoMeter\obj\Debug\SpeedoMeter.csprojResolveAssemblyReference.cache
+C:\Users\Bryan\Desktop\KEU PDN\WPFAssignment\SpeedoMeter\SpeedoMeter\obj\Debug\MainWindow.g.cs
+C:\Users\Bryan\Desktop\KEU PDN\WPFAssignment\SpeedoMeter\SpeedoMeter\obj\Debug\App.g.cs
+C:\Users\Bryan\Desktop\KEU PDN\WPFAssignment\SpeedoMeter\SpeedoMeter\obj\Debug\SpeedoMeter_MarkupCompile.cache
+C:\Users\Bryan\Desktop\KEU PDN\WPFAssignment\SpeedoMeter\SpeedoMeter\obj\Debug\SpeedoMeter_MarkupCompile.lref
+C:\Users\Bryan\Desktop\KEU PDN\WPFAssignment\SpeedoMeter\SpeedoMeter\obj\Debug\MainWindow.baml
+C:\Users\Bryan\Desktop\KEU PDN\WPFAssignment\SpeedoMeter\SpeedoMeter\obj\Debug\SpeedoMeter.g.resources
+C:\Users\Bryan\Desktop\KEU PDN\WPFAssignment\SpeedoMeter\SpeedoMeter\obj\Debug\SpeedoMeter.Properties.Resources.resources
+C:\Users\Bryan\Desktop\KEU PDN\WPFAssignment\SpeedoMeter\SpeedoMeter\obj\Debug\SpeedoMeter.csproj.GenerateResource.Cache
+C:\Users\Bryan\Desktop\KEU PDN\WPFAssignment\SpeedoMeter\SpeedoMeter\obj\Debug\SpeedoMeter.exe.manifest
+C:\Users\Bryan\Desktop\KEU PDN\WPFAssignment\SpeedoMeter\SpeedoMeter\obj\Debug\SpeedoMeter.application

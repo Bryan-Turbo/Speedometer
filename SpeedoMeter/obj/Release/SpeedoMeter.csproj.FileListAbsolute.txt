@@ -1,0 +1,8 @@
+C:\Users\Bryan\documents\visual studio 2015\Projects\SpeedoMeter\SpeedoMeter\bin\Release\SpeedoMeter.exe
+C:\Users\Bryan\documents\visual studio 2015\Projects\SpeedoMeter\SpeedoMeter\obj\Release\SpeedoMeter.exe
+C:\Users\Bryan\documents\visual studio 2015\Projects\SpeedoMeter\SpeedoMeter\bin\Release\SpeedoMeter.exe.config
+C:\Users\Bryan\documents\visual studio 2015\Projects\SpeedoMeter\SpeedoMeter\obj\Release\SpeedoMeter.csprojResolveAssemblyReference.cache
+C:\Users\Bryan\documents\visual studio 2015\Projects\SpeedoMeter\SpeedoMeter\obj\Release\MainWindow.g.cs
+C:\Users\Bryan\documents\visual studio 2015\Projects\SpeedoMeter\SpeedoMeter\obj\Release\App.g.cs
+C:\Users\Bryan\documents\visual studio 2015\Projects\SpeedoMeter\SpeedoMeter\obj\Release\SpeedoMeter_MarkupCompile.cache
+C:\Users\Bryan\documents\visual studio 2015\Projects\SpeedoMeter\SpeedoMeter\obj\Release\SpeedoMeter_MarkupCompile.lref
