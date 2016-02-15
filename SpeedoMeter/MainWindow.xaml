@@ -19,7 +19,7 @@
         <Ellipse HorizontalAlignment="Left" Margin="50, 50, 0, 0" Stroke="Black" VerticalAlignment="Top" Width="250" Height="250" Fill="#FF393939"></Ellipse>
         <Ellipse HorizontalAlignment="Left" Margin="50, 50, 0, 0" Stroke="Black" VerticalAlignment="Top" Width="250" Height="250">
             <Ellipse.Fill>
-                <ImageBrush ImageSource="/speedometer_negative.png" Stretch="None">
+                <ImageBrush ImageSource="./src/speedometer_negative.png" Stretch="None">
                     <ImageBrush.RelativeTransform>
                         <TransformGroup>
                             <ScaleTransform CenterY="0.5" CenterX="0.5"/>

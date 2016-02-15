@@ -20,7 +20,7 @@ namespace SpeedoMeter {
         private double seconds = 0;
 
         private double speedInKM = 0;
-        private const double MAXSPEED = 999;
+        private const double MAXSPEED = 351;
         private const int MAXANGLE = 260;
         private int currentRelativeAngle;
 
